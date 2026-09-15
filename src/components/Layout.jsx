@@ -28,7 +28,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
     { name: 'English', path: '/subject/English - Verbal Ability', icon: BookA },
     { name: 'Data Interpretation', path: '/subject/Data Interpretation & Analytical Ability', icon: PieChart },
     { name: 'Computer Aptitude', path: '/subject/Computer Aptitude', icon: Monitor },
-    { name: 'Software Placements', path: '/subject/Software Placement Aptitude', icon: Code },
+    { name: 'Software Placements', path: '/exams', icon: Code },
     { name: 'Formula Book', path: '/formulas', icon: FlaskConical },
     { name: 'Practice', path: '/practice', icon: PenTool },
     { name: 'Study Plan', path: '/study-plan', icon: Map },

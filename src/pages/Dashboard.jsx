@@ -66,7 +66,7 @@ const Dashboard = () => {
                 <BookOpen className="card-icon" size={24} />
               </div>
               <p style={{ color: 'var(--text-muted)', fontSize: '0.875rem', marginBottom: '1.5rem' }}>
-                {category.exams.length} Exams Covered
+                {category.description}
               </p>
               <div className="progress-container">
                 <div className="progress-text">
